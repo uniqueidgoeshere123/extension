@@ -1,0 +1,7 @@
+let myScript = document.createElement("script");
+myScript.setAttribute("src", "https://www.example.com/foo.js");
+document.body.appendChild(myScript);
+
+https://caiorss.github.io/bookmarklet-maker/
+
+https://obfuscator.io/
