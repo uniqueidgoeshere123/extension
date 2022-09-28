@@ -4,4 +4,4 @@ document.body.appendChild(myScript);
 
 https://caiorss.github.io/bookmarklet-maker/
 
-https://obfuscator.io/
+https://javascriptobfuscator.dev/
