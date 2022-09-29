@@ -1,7 +1,15 @@
+Clear Cache:
+https://rawcdn.githack.com/uniqueidgoeshere123/extension/main/1.js
+https://rawcdn.githack.com/uniqueidgoeshere123/extension/main/2.js
+https://rawcdn.githack.com/uniqueidgoeshere123/extension/main/3.js
+
+Base code:
 let myScript = document.createElement("script");
 myScript.setAttribute("src", "https://www.example.com/foo.js");
 document.body.appendChild(myScript);
 
-https://caiorss.github.io/bookmarklet-maker/
-
+Obfuscator:
 https://javascriptobfuscator.dev/
+
+Bookmarklet Creator:
+https://caiorss.github.io/bookmarklet-maker/
