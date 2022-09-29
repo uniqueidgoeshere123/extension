@@ -1,1 +1,1 @@
-alert('this licence has been disabled')
+prompt('Enter:','enter here')
